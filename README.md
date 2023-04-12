@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfadah" alt="mohamedfadah" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mohamed-sabry.herokuapp.com/](https://portfolio-mohamed-sabry.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://mo-sabry.vercel.app/](https://mo-sabry.vercel.app/)
 
 - 💬 Ask me about **react.js, mongodb, express.js, node.js, Next.js, angular, python, django, ruby on rails, HTML, CSS, Bootstrap, JQuery, MySQL, Php, Rest APIs, Git, Algorithms, OOP, Data Structure**
 
